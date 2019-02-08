@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=ttps://drive.google.com/open?id=1rJ-LnQKmypGw-qOpvlqupE4t4b1ja7A'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1rJ-LnQKmypGw-qOpvlqupE4t4b1ja7A0'
 export_file_name = 'export.pkl'
 
 classes = ['non-vegetarian', 'vegetarian']
